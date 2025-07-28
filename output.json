@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "doc2.pdf",
+      "doc1.pdf"
+    ],
+    "persona": "Software Engineering Student focusing on resume and portfolio building",
+    "job_to_be_done": "Understand how to structure project sections and highlight relevant skills",
+    "timestamp": "2025-07-28T08:13:52.872707"
+  },
+  "sections": [
+    {
+      "document": "doc1.pdf",
+      "page": 1,
+      "section_title": "Motivated and detail-oriented Computer S...",
+      "importance_rank": 17,
+      "refined_text": "Motivated and detail-oriented Computer Science undergraduate with a strong academic background and  hands-on experience in web development and AI-based solutions. Proficient in C, Java, Python, HTML, CSS,  JavaScript, Unity3D, and MySQL, with a deep interest in AI and data-driven technologies. Quick learner with  strong analytical thinking and collaborative spirit, aiming to contribute to impactful solutions in dynamic tech  environments."
+    },
+    {
+      "document": "doc1.pdf",
+      "page": 1,
+      "section_title": "• Tools and Frameworks: Unity3D, Unity A...",
+      "importance_rank": 10,
+      "refined_text": "• Tools and Frameworks: Unity3D, Unity API,Software Testing, MySQL, Power BI"
+    },
+    {
+      "document": "doc2.pdf",
+      "page": 1,
+      "section_title": "Description: \\ A  container configuratio...",
+      "importance_rank": 9,
+      "refined_text": "Description: \\ A  container configuration file  used to build and run the extractor in an isolated environment (e.g., for offline judging). Features: CPU-only setup. Installs Python and project dependencies. Copies all necessary code and files. Sets  main.py   as the entry point."
+    },
+    {
+      "document": "doc1.pdf",
+      "page": 1,
+      "section_title": "Built a web application for booking movi...",
+      "importance_rank": 8,
+      "refined_text": "Built a web application for booking movie tickets using HTML, CSS, JavaScript."
+    },
+    {
+      "document": "doc2.pdf",
+      "page": 1,
+      "section_title": "📁  Project Structure: PDF Outline Extrac...",
+      "importance_rank": 8,
+      "refined_text": "📁  Project Structure: PDF Outline Extractor"
+    },
+    {
+      "document": "doc1.pdf",
+      "page": 1,
+      "section_title": "• Web Technologies: HTML, CSS, JavaScrip...",
+      "importance_rank": 7,
+      "refined_text": "• Web Technologies: HTML, CSS, JavaScript"
+    },
+    {
+      "document": "doc2.pdf",
+      "page": 2,
+      "section_title": "Description: \\ A  compiled Python byteco...",
+      "importance_rank": 6,
+      "refined_text": "Description: \\ A  compiled Python bytecode file  automatically generated when  utils.py   is"
+    },
+    {
+      "document": "doc1.pdf",
+      "page": 1,
+      "section_title": "Skills...",
+      "importance_rank": 5,
+      "refined_text": "Skills"
+    },
+    {
+      "document": "doc1.pdf",
+      "page": 1,
+      "section_title": "Projects...",
+      "importance_rank": 5,
+      "refined_text": "Projects"
+    },
+    {
+      "document": "doc1.pdf",
+      "page": 1,
+      "section_title": "Professional Experience...",
+      "importance_rank": 5,
+      "refined_text": "Professional Experience"
+    }
+  ]
+}
